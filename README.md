@@ -1,7 +1,9 @@
-# Sistema Operacional em Disco - TK2000_Color
+# Sistema Operacional em Disco - TK2000 Color
+
+![Capa](/capa.jpg "Sistema Operacional em Disco - TK2000 Color")
+
 This repository contains all files used in the digitization of the `Sistema Operacional em Disco - TK2000 Color` user manual. This was included in TKDOS 3.3.x software distribution by the former brazilian militar dictatorship-era "Microsoft" for the Microdigital TK2000 computer series.
 
-  ![Cover](/scan tailor output.j2k/all pages_page0001.j2k)
 
 Manual pages were scanned with XSane and a multi-function home device (`Canon MX725`) on a Linux System running Fedora 29. TIFF Raw images were processed with `Scan Tailer` and converted to JPEG2000 using the following `Image Magick` command: 
 
